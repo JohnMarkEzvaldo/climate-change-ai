@@ -38,4 +38,4 @@ For questions or feedback, please contact the project maintainers at [ezvaldomar
 
 ## Acknowledgements
 
-We gratefully acknowledge the contributions of [list of collaborators, data sources, and funding organizations if applicable].
+We gratefully acknowledge the contributions of [RISEx].
